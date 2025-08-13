@@ -1,3 +1,4 @@
+# test
 import random
 number = random.randint(1, 100)
 print("ทายเลขระหว่าง 1 ถึง 100")
