@@ -30,9 +30,15 @@
 
 9.คำสั่งที่เอาbranchที่เราอยู่ไปรวมกับbranchอีกอัน
 
+
 คำสั่งลบ Branch มี 2 แบบ Local,Remote Project
+
 Local
+
 git branch -d [ชื่อ Branch]
+
 Remote Project
+
 git push --delete origin [ชื่อ Branch ที่จะลบ]
+
 
